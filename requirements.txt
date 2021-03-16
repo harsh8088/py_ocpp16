@@ -1,0 +1,8 @@
+attrs==20.1.0
+importlib-metadata==1.7.0
+jsonschema==3.2.0
+ocpp==0.6.4
+pyrsistent==0.16.0
+six==1.15.0
+websockets==8.1
+zipp==3.1.0
